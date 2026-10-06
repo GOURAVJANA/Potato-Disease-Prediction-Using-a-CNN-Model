@@ -1,0 +1,1 @@
+# Potato-Disease-Prediction-Using-a-CNN-Model
